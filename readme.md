@@ -25,9 +25,11 @@
 
 ## Вывод программы 
 
+```
 Gordon Ramsay Jamie Oliver 
 Stove Fridge 
 Gordon Ramsay Jamie Oliver 
 No cleaning for you
 Cleaning dust in the house
-Mopping all the floors in the house::
+Mopping all the floors in the house
+```
